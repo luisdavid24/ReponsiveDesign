@@ -1,2 +1,2 @@
-# ReponsiveDesign
-.
+# desarrollo-web-portafolio
+Proyecto realizado 
